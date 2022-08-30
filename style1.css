@@ -73,7 +73,9 @@ h1{
 }
 
 .grid-div{
-    margin-left: 20px;
+    margin-left: 40px;
+    border: 4px;
+    box-shadow:5px;
     
 }
 .nav-btn{
@@ -127,15 +129,4 @@ ul{
 }
 #first-icon{
     margin-left: 240px;
-}
-
-
-
-
-/*$$$$$$$$$$$$$$$$$$$
-   RESPONSIVE PART
-$$$$$$$$$$$$$$$$$$$*/
-
-@media screen and (min-width: 768px) {
-
 }
